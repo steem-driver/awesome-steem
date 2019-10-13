@@ -7,6 +7,7 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
   - [Infrastructure](#infrastructure)
   - [SDKs](#sdks)
   - [Frameworks](#frameworks)
+  - [Tutorials](#tutorials)
   - [Tools / Utilities](#tools--utilities)
   - [dApps](#dapps)
   - [Smart Media Token](#smart-media-token)
@@ -14,7 +15,9 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
 - [Services](#services)
   - [Continuous Integration](#continuous-integration)
   - [App Deployment](#app-deployment)
+  - [Steem DAO](#steem-dao)
 - [Resources](#resources)
+  - [Developer Community](#developer-community)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -25,6 +28,7 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
 * [Steem Bluepaper](https://steem.com/SteemBluepaper.pdf) - The Steem Official Bluepaper
 * [SMT Whitepaper](https://steem.com/SMTWhitepaper.pdf) - The Smart Media Token Whitepaper
 * [Developer Portal](https://developers.steem.io/) - The developer portal of Steem
+* [Steem Glossary](https://developers.steem.io/glossary/#glossary-chain-basics) - Understanding the common terms used by the Steem blockchain
 * [Steem Guides | Steem 指南](https://steemh.org) - The Chinese version Steem User Manual
 
 ## Infrastructure
@@ -44,7 +48,14 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
     * [steem-ruby](https://github.com/steemit/steem-ruby) - the official Ruby library for the Steem blockchain
 * Swift
     * [swift-steem](https://github.com/steemit/swift-steem) - Steem client library for iOS, macOS and Linux written in Swift
-* .Net
+* Java
+    * [SteemJ](https://github.com/marvin-we/steem-java-api-wrapper) - An API Wrapper for Steem written in Java
+* Go
+    * [go-steem](https://github.com/go-steem/rpc) - Golang RPC client library for Steem
+* Rust
+    * [SteemClientRS](https://github.com/cyberpunk-ventures/steem-client-rs) - Client library for Steem blockchain built with Rust
+* .NET
+    * [Steem.Net](https://github.com/VIM-Arcange/Steem.NET) - .NET library and classes to communicate with STEEM steemd/cli-wallet
 
 
 ## Frameworks
@@ -53,6 +64,15 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
 * Mobile
 * Game
 * Data
+
+## Tutorials
+
+* JavaScript
+    * [Developer Portal JavaScript Tutorial](https://developers.steem.io/tutorials/#tutorials-javascript) ([code](https://github.com/steemit/devportal-tutorials-js)) - Javascript Tutorials for the Developer Portal
+* Python
+    * [Developer Portal Python Tutorial](https://developers.steem.io/tutorials/#tutorials-python) ([code](https://github.com/steemit/devportal-tutorials-py)) - Python Tutorials for the Developer Portal
+* Ruby
+    * [Developer Portal Ruby Tutorial](https://developers.steem.io/tutorials/#tutorials-ruby) ([code](https://github.com/steemit/devportal-tutorials-rb)) - Ruby Tutorials for the Developer Portal
 
 
 ## Tools / Utilities
@@ -67,6 +87,7 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
     * [Steemit Wallet](https://steemitwallet.com) ([code](https://github.com/steemit/wallet)) - The wallet functionality of Steemit Condenser
 * Data Service
     * [SteemSQL](https://steemsql.com/) - A publicly available Microsoft SQL database containing all the Steem blockchain data.
+    * [eSync](https://github.com/eSteemApp/esync) - Extracts Steem blockchain data and saves into Mongodb
 * Witness
     *
 
@@ -131,12 +152,19 @@ Online tools and APIs to simplify development.
 * [Heroku](http://heroku.com) - a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 * [Netlify](https://www.netlify.com/) - an all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS.
 
+## Steem DAO
+
+*Steem DAO is dedicated to improve the Steem platform*
+
+* [Steem Proposal System](https://steemproposals.com/) - Propose and vote for projects that improves Steem
 
 # Resources
 
 Where to find more resources about Steem.
 
+## Developer Community
 
+* [SteemDevs Chat](https://discord.gg/B29Bbng) - a Discord channel where Steem developers go to discuss Steem development, and related topics
 
 
 
