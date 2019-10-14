@@ -18,6 +18,8 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
   - [Steem DAO](#steem-dao)
 - [Resources](#resources)
   - [Developer Community](#developer-community)
+  - [Conferences](#conferences)
+  - [Projects Summary](#projects-summary)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -127,7 +129,6 @@ with blockchain technology.
     * [SteemSTEM](https://www.steemstem.io/) ([code](https://github.com/SteemStem-io/steemstem)) - A New STEM Communication Paradigm On Steem
 * Product
     * [SteemHunt](https://steemhunt.com) ([code](https://github.com/Steemhunt/web)) - A platform for discovering cool products
-    * [Steem Projects](https://steemprojects.com/) ([code](https://github.com/wise-team/steemprojects.com)) - A collection of cool projects built with or for Steem
 * Funding
     * [Fundition](https://fundition.io/) ([code](https://github.com/fundition/fundition)) - A crowdfunding and collaboration platform on Steem
 * Automation
@@ -202,6 +203,13 @@ Where to find more resources about Steem.
 
 * [SteemDevs Chat](https://discord.gg/B29Bbng) - a Discord channel where Steem developers go to discuss Steem development, and related topics
 
+## Conferences
+
+* [SteemFest](https://steemfest.com/) - The annual conference and social events for Steemians
+
+## Projects Summary
+
+* [Steem Projects](https://steemprojects.com/) ([code](https://github.com/wise-team/steemprojects.com)) - A collection of cool projects built with or for Steem
 
 
 # Contributing
