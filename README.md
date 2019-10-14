@@ -24,19 +24,23 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
 
 *Documents & videos about Steem*
 
-* [Steem Whitepaper](https://steem.com/SteemWhitepaper.pdf) - The Steem Official Whitepaper
-* [Steem Bluepaper](https://steem.com/SteemBluepaper.pdf) - The Steem Official Bluepaper
-* [SMT Whitepaper](https://steem.com/SMTWhitepaper.pdf) - The Smart Media Token Whitepaper
+* [Steem Whitepaper](https://steem.com/steem-whitepaper.pdf) - The Steem Official Whitepaper
+* [Steem Bluepaper](https://steem.com/steem-bluepaper.pdf) - The Steem Official Bluepaper
+* [SMT Whitepaper](https://smt.steem.com/smt-whitepaper.pdf) - The Smart Media Token Whitepaper
 * [Developer Portal](https://developers.steem.io/) - The developer portal of Steem
 * [Steem Glossary](https://developers.steem.io/glossary/#glossary-chain-basics) - Understanding the common terms used by the Steem blockchain
 * [Steem Guides | Steem 指南](https://steemh.org) - The Chinese version Steem User Manual
 
 ## Infrastructure
 
+*The Steem blockchain infrastructure*
+
 * [Steem](https://steem.com) ([code](https://github.com/steemit/steem)) - The blockchain for Smart Media Tokens (SMTs) and decentralized applications
 * [Hivemind](https://github.com/steemit/hivemind) - Developer-friendly microservice powering social networks on the Steem blockchain.
 
 ## SDKs
+
+*SDKs for common languages*
 
 * JavaScript
     * [steem.js](https://github.com/steemit/steem-js) - The official JavaScript library for Steem blockchain
@@ -67,6 +71,8 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
 
 ## Tutorials
 
+*Tutorials for getting started with Steem*
+
 * JavaScript
     * [Developer Portal JavaScript Tutorial](https://developers.steem.io/tutorials/#tutorials-javascript) ([code](https://github.com/steemit/devportal-tutorials-js)) - Javascript Tutorials for the Developer Portal
 * Python
@@ -77,7 +83,9 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
 
 ## Tools / Utilities
 
-* Blockchain Explorer
+*Useful tools/utilities when building with Steem*
+
+* Block Explorer
     * [steemd](http://steemd.com) - The Steem block, transaction and account explorer
     * [Steem World](https://steemworld.com/) - A visual and powerful Steem information explorer
 * Authentication / Wallet
@@ -89,9 +97,11 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
     * [SteemSQL](https://steemsql.com/) - A publicly available Microsoft SQL database containing all the Steem blockchain data.
     * [eSync](https://github.com/eSteemApp/esync) - Extracts Steem blockchain data and saves into Mongodb
 * Witness
-    *
+    * [Witness List](https://steemian.info/witnesses) - Witness List on Steemian.info
 
 ## dApps
+
+*Some cool dApps built with Steem*
 
 * Social Blogging
     * [Steemit](https://steemit.com) ([code](https://github.com/steemit/condenser)) - The 1st official blog dApp for Steem， made by Steemit Inc.
@@ -99,13 +109,27 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
     * [Steempeak](https://steempeak.com) - A powerful and performant blog dApp for Steem
     * [eSteem](https://esteem.app/) ([code](https://github.com/esteemapp)) - A powerful frontend dApp for Android, iOS, Desktop and Web
     * [Partiko](https://partiko.app) - An excellent mobile client for iOS and Android
+    * [Steempress](https://steempress.io/) ([code](https://github.com/drov0/steempress)) - A WordPress plugin to power your website
+with blockchain technology.
 * Video
+    * [DTube](https://d.tube/) ([code](https://github.com/dtube)) - Decentralized video sharing community that rewards creators and curators.
+* Photography
+    * [nTOPAZ](https://www.ntopaz.com) - A platform for talent find, development, and respect and reward artistic endeavors that are fair and transparent.
+    * [Wherein](http://www.wherein.io/) - Social media platform made for light blogs similar to Instgram
 * Travel
+    * [Steemit Worldmap](https://steemitworldmap.com/) - A Google map app and community for sharing travel stories
+    * [TravelFeed](http://travelfeed.org) ([code](https://github.com/travelfeed-io/travelfeed-io)) - A dApp for sharing travel experience and earn rewards
 * Food
+    * [Tasteem](https://tasteem.io/) - A dApp for sharing recommended food and restaurants
+* Game
+    * [Splinterlands](https://steemmonsters.com/) - A collectible trading card game on the Steem blockchain
 * Science
     * [SteemSTEM](https://www.steemstem.io/) ([code](https://github.com/SteemStem-io/steemstem)) - A New STEM Communication Paradigm On Steem
-* Game
-    * [SteemMonsters](https://steemmonsters.com/) - A collectible trading card game on the Steem blockchain!
+* Product
+    * [SteemHunt](https://steemhunt.com) ([code](https://github.com/Steemhunt/web)) - A platform for discovering cool products
+    * [Steem Projects](https://steemprojects.com/) ([code](https://github.com/wise-team/steemprojects.com)) - A collection of cool projects built with or for Steem
+* Funding
+    * [Fundition](https://fundition.io/) ([code](https://github.com/fundition/fundition)) - A crowdfunding and collaboration platform on Steem
 * Automation
     * [SteemAuto](https://steemauto.com) ([code](https://github.com/mahdiyari/steemauto)) - An dApp for automatic claiming payouts, automatic curation, and scheduling posts.
     * [steemrewarding](https://steemrewarding.com/) ([code](https://github.com/holgern/steemrewarding)) - A automatic upvote service for Steem
@@ -113,9 +137,15 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
 
 ## Smart Media Token
 
+*A Token Protocol based on Steem*
+
+* Design
+    * [SMT Whitepaper](https://smt.steem.com/smt-whitepaper.pdf) - The Smart Media Token Whitepaper
 
 
 ## Steem Engine
+
+*A platform that empowers creating tokens and tribes on Steem*
 
 * Infrastructure
     * [Steem Smart Contract](https://github.com/harpagon210/steemsmartcontracts) - Javascript blockchain/sidechain powered by Steem
@@ -132,7 +162,13 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
 * Tools
     * [Steem Engine Block Explorer](https://steem-engine.rocks/) ([code](https://github.com/inertia186/tender)) - Steem Engine sidechain interpreter
 * Tribes
-    *
+    * [Steemcoinpan](http://www.steemcoinpan.com) - A tribe for all kinds of blockchain topics
+    * [SteemLeo](https://www.steemleo.com/) - An investment community
+    * [3Speak](http://3speak.online/) - A Free Speech community on the internet
+    * [AAA Reviews](https://www.triplea.reviews) - A movie and TV series review community
+    * [SportsTalkSocial](https://www.sportstalksocial.com/) - A Sports community
+    * [CreativeCoin](https://www.creativecoin.xyz/) - A Steem Engine Tribe for the Creative Arts
+    * [RoadOfRich](http://roadofrich.com/) - A online RPG game built with RORS token
 
 # Services
 
