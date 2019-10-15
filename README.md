@@ -121,8 +121,11 @@ with blockchain technology.
 * Travel
     * [Steemit Worldmap](https://steemitworldmap.com/) - A Google map app and community for sharing travel stories
     * [TravelFeed](http://travelfeed.org) ([code](https://github.com/travelfeed-io/travelfeed-io)) - A dApp for sharing travel experience and earn rewards
+    * [Tripsteem](https://en.tripsteem.com/) - A dApp for sharing travel experience and earn rewards, which offers both Korean and English versions
 * Food
     * [Tasteem](https://tasteem.io/) - A dApp for sharing recommended food and restaurants
+* Book
+    * [Bukio](https://buk.io/) - E-book platform that provides STEEM/SBD payment and profit distribution system with STEEM blockchain
 * Game
     * [Splinterlands](https://steemmonsters.com/) - A collectible trading card game on the Steem blockchain
 * Science
