@@ -137,7 +137,9 @@ with blockchain technology.
 * Automation
     * [SteemAuto](https://steemauto.com) ([code](https://github.com/mahdiyari/steemauto)) - An dApp for automatic claiming payouts, automatic curation, and scheduling posts.
     * [steemrewarding](https://steemrewarding.com/) ([code](https://github.com/holgern/steemrewarding)) - A automatic upvote service for Steem
-
+    * [steem-AutoClaimAccount](https://github.com/VIM-Arcange/steem-AutoClaimAccount) - A tool to automatically claim Steem discounted accounts.
+* Utilities
+    * [SteemReply](https://steemreply.com) - A multi-account comments and mentions manager to stay in touch with your network. 
 
 ## Smart Media Token
 
@@ -165,6 +167,7 @@ with blockchain technology.
     * [ScotBot API](https://github.com/steem-engine-exchange/scotbot-docs/tree/master/docs/api) - List of available REST API's for scotbot
 * Tools
     * [Steem Engine Block Explorer](https://steem-engine.rocks/) ([code](https://github.com/inertia186/tender)) - Steem Engine sidechain interpreter
+    * [steem-AutoClaimTokens](https://github.com/VIM-Arcange/steem-AutoClaimTokens) - A tool to automatically claim earned Steem Engine tokens
 * Tribes
     * [Steemcoinpan](http://www.steemcoinpan.com) - A tribe for all kinds of blockchain topics
     * [SteemLeo](https://www.steemleo.com/) - An investment community
