@@ -100,6 +100,8 @@ A curated list of awesome Steem frameworks, libraries, applications and resource
     * [eSync](https://github.com/eSteemApp/esync) - Extracts Steem blockchain data and saves into Mongodb
 * Witness
     * [Witness List](https://steemian.info/witnesses) - Witness List on Steemian.info
+    * [Witness List](http://steem.arcange.eu/witnesses) - Witness List by [@arcange](https://steemit.com/@arcange)
+    * [Witness Block Production Schedule](https://steem.arcange.eu/schedule) - Tool for monitoring block production by witnesses
 
 ## dApps
 
