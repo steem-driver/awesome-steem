@@ -226,4 +226,4 @@ Your contribution is always welcome. Feel free to open pull requests for any mis
 
 - - -
 
-If you have any question about this opinionated list, please contact [@robertyan](https://steemit.com/robertyan) on Steem or open an issue on GitHub.
+If you have any question about this opinionated list, please contact [@robertyan](https://steemit.com/@robertyan) on Steem or open an issue on GitHub.
